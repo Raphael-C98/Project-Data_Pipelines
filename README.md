@@ -38,4 +38,4 @@ Background of Project / Schema : [here](https://github.com/Raphael-C98/Project-D
 * Turning on the sparkify_music_dwh_dag DAG in Airflow UI will automatically trigger the ETL pipelines to run.
 * DAG is as such (from graph view):
 
-![image](DAG.PNG)
+![image](DAG.png)
